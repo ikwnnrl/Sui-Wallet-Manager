@@ -1,0 +1,4 @@
+isi pk tuyul per line
+suipriv1
+suipriv2
+dst

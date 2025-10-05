@@ -1,0 +1,3 @@
+isi proxy dengan format dibawah yang dapat dijalankan
+http://ip:port
+http://user:pass@ip:port

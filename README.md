@@ -122,4 +122,3 @@ socks5://user:password@98.76.54.32:1080
 ## 👨‍💻 Pembuat
 **SUI Wallet Manager v34**  
 Dibuat oleh: **iwwwit**  
-Lisensi: **MIT License**
